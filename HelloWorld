@@ -1,0 +1,7 @@
+class HelloWorld
+{
+	public void mian()
+	{
+		System.out.print("hello world");
+	}
+}
